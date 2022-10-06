@@ -3,3 +3,11 @@
 
 # Ignore Gradle build output directory
 build
+
+.idea
+.idea/*.xml
+*.iml
+out
+gen
+build
+rebel.xml

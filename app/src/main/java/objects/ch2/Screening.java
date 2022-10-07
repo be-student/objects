@@ -1,5 +1,6 @@
 package objects.ch2;
 
+import java.time.Duration;
 import java.time.LocalDateTime;
 
 public class Screening {
@@ -28,6 +29,7 @@ public class Screening {
         return new Reservation(customer,this,calculateFee(audienceCount),audienceCount);
     }
     private Money calculateFee(int audienceCount){
-        return movie.calculateFee(this).times(audienceCount);
+        System.out.println(new Movie("star wars", Duration.ofMinutes(210),Money.wons(10000),new NoneDiscountPolicy()));
+        return movie.calculateMovieFee(this).times(audienceCount);
     }
 }

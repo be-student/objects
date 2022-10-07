@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ac9589e-2bbc-4f6f-a41d-909bb3e52587" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/objects/ch2/Screening.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/objects/ch1/Audience.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/objects/ch1/Audience.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/objects/ch1/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/objects/ch1/Bag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/objects/ch1/TicketOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/objects/ch1/TicketOffice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/objects/ch1/TicketSeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/objects/ch1/TicketSeller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -61,7 +57,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665039725781</updated>
-      <workItem from="1665039727448" duration="8452000" />
+      <workItem from="1665039727448" duration="10278000" />
+      <workItem from="1665101386016" duration="4906000" />
+      <workItem from="1665124003216" duration="2724000" />
     </task>
     <servers />
   </component>
